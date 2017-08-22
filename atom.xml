@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.ycwang.top/"/>
-  <updated>2017-08-22T10:36:15.274Z</updated>
+  <updated>2017-08-22T10:51:38.486Z</updated>
   <id>http://www.ycwang.top/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://www.ycwang.top/%E5%85%B6%E4%BB%96/about.html"/>
     <id>http://www.ycwang.top/其他/about.html</id>
     <published>2017-08-10T12:20:20.000Z</published>
-    <updated>2017-08-22T10:36:15.274Z</updated>
+    <updated>2017-08-22T10:51:38.486Z</updated>
     
     <content type="html"><![CDATA[<img src="/images/about-me.jpg" class="王延崇">
 <p>本博客记录作者本人在技术中遇到的点滴，记录在这里供其他人参考和赏阅；支持原创并坚信会一直行走在原创之路上．．．</p>
@@ -43,10 +43,10 @@
     
     </summary>
     
-      <category term="-其他" scheme="http://www.ycwang.top/categories/%E5%85%B6%E4%BB%96/"/>
+      <category term="其他" scheme="http://www.ycwang.top/categories/%E5%85%B6%E4%BB%96/"/>
     
     
-      <category term="-其他" scheme="http://www.ycwang.top/tags/%E5%85%B6%E4%BB%96/"/>
+      <category term="其他" scheme="http://www.ycwang.top/tags/%E5%85%B6%E4%BB%96/"/>
     
   </entry>
   
